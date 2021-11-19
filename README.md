@@ -2,5 +2,5 @@
 
 ## Contents
 
-* [Day 1](logs/day1/index.md)
-* [Day 2](logs/day2/index.md)
+* [Day 1](logs/day1)
+* [Day 2](logs/day2)
